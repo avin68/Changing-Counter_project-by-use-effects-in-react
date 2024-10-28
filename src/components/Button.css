@@ -1,0 +1,18 @@
+button {
+  width: 120px;
+  padding: 10px 26px;
+  margin: 0 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: large;
+  text-align: center;
+}
+.decrease {
+  background-color: red;
+}
+.increase {
+  background-color: green;
+}
+.reset {
+  background-color: #dbd5d5;
+}
